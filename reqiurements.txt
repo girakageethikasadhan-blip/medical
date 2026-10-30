@@ -1,4 +1,4 @@
 streamlit
-PyMuPDF==1.26.7
+PyMuPDF
 Pillow
 pytesseract
